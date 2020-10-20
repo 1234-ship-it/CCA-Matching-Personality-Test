@@ -5,7 +5,7 @@ print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is
 
 print("What are you good at?")
 
-tech2 = input("I know how to build apps and websites.")
+tech2 = input("I know how to create apps and websites.")
 
 outdoor2 = input("I'm good with tying knots and ropes.")
 
